@@ -1,5 +1,5 @@
 {
-  "name": "mern-shopping",
+  "name": "shop-shop",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lylylong/shop-shop.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lylylong/shop-shop/issues"
+  },
+  "homepage": "https://github.com/lylylong/shop-shop#readme"
 }
